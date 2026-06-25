@@ -2,12 +2,6 @@
 
 A virtual reality educational experience that allows users to explore the solar system, interact with planets, and learn scientific facts through immersive VR interactions.
 
-## Team Members
-- Ahmad Karmoul
-- Diya'a Alrayyan
-- Mahmoud Alameh
-- Raneem Elkayed
-
 ## My Contributions
 - Physics-based VR hand tracking
 - Planet gravity system
